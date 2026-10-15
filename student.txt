@@ -1,8 +1,0 @@
-College Management System
-Student Name: Abhilash R Bhat
-Roll Number: 1DT24CG002
-Department: CSD
-Semester: 5
-Attendance: 85%
-Result: PASS
-Feature: Attendance Management
